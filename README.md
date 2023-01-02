@@ -10,3 +10,5 @@ Building a portfolio for a class project. Applying HTML, CSS, Hyperlink, etc..
 
 
 
+![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png)
