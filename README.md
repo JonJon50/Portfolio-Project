@@ -28,5 +28,5 @@
 
 
 
-![alt text](/Image/PP.png)
-![alt text](/Image/PP2.png)
+![alt text](/image/PP.png)
+![alt text](/image/PP2.png)
