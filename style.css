@@ -61,13 +61,14 @@ h3 {
 
 ul {
   list-style-type: none;
+
 }
 
 li {
   /* Sets display to inline */
   display: inline;
   list-style-type: none;
-}
+ }
 
 /* Nav bar ends */
 .para {
